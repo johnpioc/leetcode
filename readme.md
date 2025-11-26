@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 51
+**Problems Solved:** 52
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -52,4 +52,5 @@
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                                             | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/1d-dynamic-programming/MinCostClimbingStairs746.cpp)            | Beats 100%   | Beats 31%  |
 | 853  | [Car Fleet](https://leetcode.com/problems/car-fleet/description/)                                                                           | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/stack/CarFleet853.cpp)                                          | Beats 61% | Beats 97%  |
 | 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)                                                               | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/graphs/RottingOranges994.cpp)                                   | Beats 100%   | Beats 75%  |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | Easy | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/heap-priority-queue/LastStoneWeight1046.cpp) | Beats 100% | Beats 9.35% |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                           | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/trees/CountGoodNodesInBinaryTree1448.cpp)                       | Beats 74% | Beats 62%  |
