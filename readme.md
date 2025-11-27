@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 58
+**Problems Solved:** 60
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -24,6 +24,7 @@
 | 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)                                                         | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/graphs/SurroundedRegions130.cpp)                                | Beats 30%  | Beats 32%  |                                   
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/description/)                                                                       | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/graphs/CloneGraph133.cpp)                                       | Beats 22%  | Beats 65%  |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/description/)                                                                   | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/bit-manipulation/SingleNumber136.cpp)                           | Beats 100%  | Beats 58%  |
+| 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | Medium | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/linked-list/CopyListWithRandomPointer138.cpp) | Beats 52% | Beats 29% |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                           | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/linked-list/LinkedListCycle141.cpp)                             | Beats 12% | Beats 7%  |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | Medium | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/linked-list/ReorderList143.cpp) | Beats 100% | Beats 16% |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | Medium | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/linked-list/LRUCache146.cpp) | Beats 65% | Beats 62% |
