@@ -13,10 +13,10 @@ public:
     }
 
     K getKey() { return this->key_; }
-    K setKey(K key) { this->key_ = key; }
+    void setKey(K key) { this->key_ = key; }
 
     V getValue() { return this->value_; }
-    V setValue(V value) { this->value_ = value; }
+    void setValue(V value) { this->value_ = value; }
 
     bool operator<(const Entry<K, V>& other) { return this->key_ < other.key_; }
     bool operator>(const Entry<K, V>& other) { return this->key_ > other.key_; }

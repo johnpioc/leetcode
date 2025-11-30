@@ -1,9 +1,28 @@
-#pragma once
+template <typename K, typename V>
+struct Entry {
+private:
+    K key_;
+    V value_;
 
-#include <cmath>
-#include <vector>
-#include <unordered_map>
-#include "Entry.h"
+public:
+    Entry(K key, V value) {
+        this->key_ = key;
+        this->value_ = value;
+    }
+
+    K getKey() { return this->key_; }
+    void setKey(K key) { this->key_ = key; }
+
+    V getValue() { return this->value_; }
+    void setValue(V value) { this->value_ = value; }
+
+    bool operator<(const Entry<K, V>& other) { return this->key_ < other.key_; }
+    bool operator>(const Entry<K, V>& other) { return this->key_ > other.key_; }
+    bool operator<=(const Entry<K, V>& other) { return this->key_ <= other.key_; }
+    bool operator>=(const Entry<K, V>& other) { return this->key_ >= other.key_; }
+    bool operator==(const Entry<K, V>& other) { return this->key_ == other.key_; }
+    bool operator!=(const Entry<K,V>& other) { return this->key_ != other.key_; }
+};
 
 template <typename K, typename V>
 struct AdaptablePriorityQueue {
@@ -126,5 +145,45 @@ public:
         int index = valueToEntryIndex_[value];
         this->data_[index].setKey(newKey);
         upheap(index);
+    }
+};
+
+class Solution {    
+public:
+    int networkDelayTime(vector<vector<int>>& times, int n, int k) {
+        unordered_map<int, vector<vector<int>>> adj;
+
+        for (vector<int> time : times) {
+            adj[time[0]].push_back(time);
+        }
+
+        AdaptablePriorityQueue<int, int> apq;
+
+        for (int i = 1; i <= n; i++) {
+            apq.insert(i == k ? 0 : INT_MAX, i);
+        }
+
+        int maxDistance = 0;
+        while (!apq.empty()) {
+            Entry<int, int> current = apq.removeMin();
+            int u = current.getValue();
+            int w = current.getKey();
+
+            if (w == INT_MAX) {
+                return -1;
+            }
+
+            maxDistance = max(w, maxDistance);
+
+            for (vector<int> edge : adj[u]) {
+                int v = edge[1];
+                int newDistance = w + edge[2];
+                if (apq.containsValue(v) && newDistance < apq.getKey(v)) {
+                    apq.decreaseKey(v, newDistance);
+                }
+            }
+        }
+
+        return maxDistance;
     }
 };
