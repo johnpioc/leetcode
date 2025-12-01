@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 67
+**Problems Solved:** 70
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -59,6 +59,7 @@
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/trees/DiameterOfBinaryTree543.cpp) | Beats 5% | Beats 5% |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                                   | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/arrays-and-hashing/PermutationInString567.cpp)                  | Beats 70%  | Beats 29%  |
 | 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)                                               | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/trees/SubtreeOfAnotherTree572.cpp)                              | Beats 5%  | Beats 5%  |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | Medium | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/heap-priority-queue/TaskScheduler621.cpp) | Beats 54% | Beats 51% |
 | 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                                     | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/graphs/MaxAreaOfIsland695.cpp)                                  | Beats 5% | Beats 5%  |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Easy | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/heap-priority-queue/KthLargestElementInAStream703.cpp) | Beats 82% | Beats 93% |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                                   | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/binary-search/BinarySearch704.cpp)                              | Beats 100%  | Beats 98%  |
