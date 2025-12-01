@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 70
+**Problems Solved:** 71
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -14,6 +14,7 @@
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                                                     | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/stack/GenerateParentheses22.cpp)                                | Beats 87%   | Beats 51%  |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                                                                     | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/arrays-and-hashing/ValidSudoku36.cpp)                           | Beats 36%  | Beats 54%  |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                                                 | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/arrays-and-hashing/GroupAnagrams49.cpp)                         | Beats 85%  | Beats 86%  |
+| 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | Medium | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/math-and-geometry/Pow(x,n)50.cpp) | Beats 100% | Beats 43% |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/description/)                                                                             | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/math-and-geometry/PlusOne66.cpp)                                | Beats 100%   | Beats 66%  |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                               | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/1d-dynamic-programming/ClimbingStairs70.cpp)                    | Beats 100%    | Beats 18%   |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | Medium | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/neetcode-150/trees/ValidateBinarySearchTree98.cpp) | Beats 100% | Beats 46% |
