@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 82
+**Problems Solved:** 91
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -70,6 +70,7 @@
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | Medium | [C++20](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/1d-dynamic-programming/CoinChange322.cpp) | Beats 5% | Beats 6% |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)                                                                   | Easy       | [C++20](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/bit-manipulation/CountingBits338.cpp) | Beats 26% | Beats 58% |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                               | Medium     | [C++20](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/arrays-and-hashing/TopKFrequentElements347.cpp)                 | Beats 7%  | Beats 57%  |
+| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/description/) | Medium | [C++20](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/heap-priority-queue/DesignTwitter355.cpp) | Beats 90% | Beats 85% | 
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Medium | [C++20](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/sliding-window/LongestRepeatingCharacterReplacement424.cpp) | Beats 46% | Beats 40% |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [C++20](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/trees/DiameterOfBinaryTree543.cpp) | Beats 5% | Beats 5% |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                                   | Medium     | [C++20](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/arrays-and-hashing/PermutationInString567.cpp)                  | Beats 70%  | Beats 29%  |
