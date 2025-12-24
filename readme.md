@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 99
+**Problems Solved:** 102
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -74,6 +74,7 @@
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/linked-list/FindTheDuplicateNumber287.cpp) | Beats 100% | Beats 69% |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/heap-priority-queue/FindMedianFromDataStream295.cpp) | Beats 71% | Beats 61% |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/1d-dynamic-programming/LongestIncreasingSubsequence300.cpp) | Beats 27% | Beats 35% |
+| 309 | [Best Time To Buy And Sell A Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/2d-dynamic-programming/BestTimeToBuyAndSellAStockWithCooldown309.cpp) | Beats 100% | Beats 73% |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/1d-dynamic-programming/CoinChange322.cpp) | Beats 5% | Beats 6% |
 | 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)                                                                   | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/bit-manipulation/CountingBits338.cpp) | Beats 26% | Beats 58% |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                               | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/arrays-and-hashing/TopKFrequentElements347.cpp)                 | Beats 7%  | Beats 57%  |
