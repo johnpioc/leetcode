@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 102
+**Problems Solved:** 107
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -25,6 +25,7 @@
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/2d-dynamic-programming/UniquePaths62.cpp) | Beats 20% | Beats 49% |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/description/)                                                                             | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/math-and-geometry/PlusOne66.cpp)                                | Beats 100%   | Beats 66%  |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                               | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/1d-dynamic-programming/ClimbingStairs70.cpp)                    | Beats 100%    | Beats 18%   |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/2d-dynamic-programming/EditDistance72.cpp) | Beats 69% | Beats 19% |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/backtracking/Subsets78.cpp) | Beats 29% | Beats 41% |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/backtracking/WordSearch79.cpp) | Beats 78% | Beats 85% |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/neetcode-150/backtracking/SubsetsII90.cpp) | Beats 9% | Beats 9% |
