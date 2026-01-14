@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 110
+**Problems Solved:** 114
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -46,6 +46,7 @@
 | 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)                                                         | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SurroundedRegions130.cpp)                                | Beats 30%  | Beats 32%  |                                   
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/PalindromePartitioning131.cpp) | Beats 5% | Beats 5% |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/description/)                                                                       | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CloneGraph133.cpp)                                       | Beats 22%  | Beats 65%  |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/GasStation134.cpp) | Beats 24% | Beats 59% |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/description/)                                                                   | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SingleNumber136.cpp)                           | Beats 100%  | Beats 58%  |
 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CopyListWithRandomPointer138.cpp) | Beats 52% | Beats 29% |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/WordBreak139.cpp) | Beats 11% | Beats 13% |
