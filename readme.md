@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 114
+**Problems Solved:** 115
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -20,6 +20,7 @@
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                                                                     | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ValidSudoku36.cpp)                           | Beats 36%  | Beats 54%  |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CombinationSum39.cpp) | Beats 23% | Beats 31% |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CombinationSumII40.cpp) | Beats 100% | Beats 36% |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/JumpGameII45.cpp) | Beats 100% | Beats 35% |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/Permutations46.cpp) | Beats 7% | Beats 7% |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                                                 | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/GroupAnagrams49.cpp)                         | Beats 85%  | Beats 86%  |
 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/Pow(x,n)50.cpp) | Beats 100% | Beats 43% |
