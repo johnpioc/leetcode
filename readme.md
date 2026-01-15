@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 115
+**Problems Solved:** 117
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -24,6 +24,7 @@
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/Permutations46.cpp) | Beats 7% | Beats 7% |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                                                 | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/GroupAnagrams49.cpp)                         | Beats 85%  | Beats 86%  |
 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/Pow(x,n)50.cpp) | Beats 100% | Beats 43% |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MaximumSubarray53.cpp) | Beats 22% | Beats 5% |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SpiralMatrix54.cpp) | Beats 100% | Beats 51% |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/JumpGame55.cpp) | Beats 100% | Beats 88% |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/UniquePaths62.cpp) | Beats 20% | Beats 49% |
