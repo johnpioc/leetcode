@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 117
+**Problems Solved:** 119
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -117,6 +117,7 @@
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | Easy | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/LastStoneWeight1046.cpp) | Beats 100% | Beats 9% |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/LongestCommonSubsequence1143.cpp) | Beats 68% | Beats 51% |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/)| Easy | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MinimumTimeVisitingAllPoints1266.cpp) | Beats 100% | Beats 27% |
+| 1379 | [Find a Corresponding Node Of A Binary Tree In A Clone Of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/) | Easy | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree1379.cpp) | Beats 48% | Beats 84% |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                           | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CountGoodNodesInBinaryTree1448.cpp)                       | Beats 74% | Beats 62%  |
 | 1584 | [Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MinCostToConnectAllPoints1584.cpp) | Beats 85% | Beats 95% |
 | 1899 | [Merge Triplets To Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MergeTripletsToFormTargetTriplet1899.cpp) | Beats 63% | Beats 84% |
