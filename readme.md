@@ -27,6 +27,7 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MaximumSubarray53.cpp) | Beats 22% | Beats 5% |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SpiralMatrix54.cpp) | Beats 100% | Beats 51% |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/JumpGame55.cpp) | Beats 100% | Beats 88% |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MergeIntervals56.cpp) | Beats 67% | Beats 32% |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/InsertInterval57.cpp) | Beats 100% | Beats 22% |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/UniquePaths62.cpp) | Beats 20% | Beats 49% |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/description/)                                                                             | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/PlusOne66.cpp)                                | Beats 100%   | Beats 66%  |
