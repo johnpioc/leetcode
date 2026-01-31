@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 119
+**Problems Solved:** 122
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -94,6 +94,7 @@
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/PartitionEqualSubsetSum416.cpp) | Beats 57% | Beats 65% |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/PacificAtlanticWaterFlow417.cpp) | Beats 10% | Beats 13% |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/LongestRepeatingCharacterReplacement424.cpp) | Beats 46% | Beats 40% |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/NonOverlappingIntervals435.cpp) | Beats 58% | Beats 65% |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/TargetSum494.cpp) | Beats 47% | Beats 18% |
 | 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CoinChangeII518.cpp) | Beats 18% | Beats 36% |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/DiameterOfBinaryTree543.cpp) | Beats 5% | Beats 5% |
