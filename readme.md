@@ -22,6 +22,7 @@
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CombinationSumII40.cpp) | Beats 100% | Beats 36% |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/JumpGameII45.cpp) | Beats 100% | Beats 35% |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/Permutations46.cpp) | Beats 7% | Beats 7% |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/RotateImage48.cpp) | Beats 100% | Beats 36% |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                                                 | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/GroupAnagrams49.cpp)                         | Beats 85%  | Beats 86%  |
 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/Pow(x,n)50.cpp) | Beats 100% | Beats 43% |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MaximumSubarray53.cpp) | Beats 22% | Beats 5% |
