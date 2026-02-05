@@ -12,6 +12,7 @@
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ContainerWithMostWater11.cpp) | Beats 35% | Beats 48% | 
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/IntegerToRoman12.cpp) | Beats 100% | Beats 66% |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/3Sum15.cpp) | Beats 97% | Beats 38% |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/3SumClosest16.cpp) | Beats 88% | Beats 93% |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/LetterCombinationsOfAPhoneNumber17.cpp) | Beats 100% | Beats 53% |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/description/) | Medium | [C++23](ttps://github.com/johnpioc/leetcode/blob/main/src/4Sum18.cpp) | Beats 84% | Beats 11% |
 | 19 | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/RemoveNthNodeFromEndOfList19.cpp) | Beats 100% | Beats 25% |
