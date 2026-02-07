@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 127
+**Problems Solved:** 131
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -22,6 +22,7 @@
 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SwapNodesInPairs24.cpp) | Beats 100% | Beats 57% |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/NextPermutation31.cpp) | Beats 100% | Beats 32% |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SearchInRotatedSortedArray33.cpp) | Beats 100% | Beats 95% |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/FindFirstAndLastPositionOfElementInSortedArray34.cpp) | Beats 100% | Beats 53% |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                                                                     | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ValidSudoku36.cpp)                           | Beats 36%  | Beats 54%  |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CombinationSum39.cpp) | Beats 23% | Beats 31% |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CombinationSumII40.cpp) | Beats 100% | Beats 36% |
