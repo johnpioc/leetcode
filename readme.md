@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 131
+**Problems Solved:** 136
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -37,6 +37,7 @@
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/JumpGame55.cpp) | Beats 100% | Beats 88% |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MergeIntervals56.cpp) | Beats 67% | Beats 32% |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/InsertInterval57.cpp) | Beats 100% | Beats 22% |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/RotateList61.cpp) | Beats 100% | Beats 31% |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/UniquePaths62.cpp) | Beats 20% | Beats 49% |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/description/)                                                                             | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/PlusOne66.cpp)                                | Beats 100%   | Beats 66%  |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                               | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ClimbingStairs70.cpp)                    | Beats 100%    | Beats 18%   |
