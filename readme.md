@@ -46,6 +46,7 @@
 | 71   | [Simplify Path](https://leetcode.com/problems/simplify-path/description/)                                                               | Medium       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SimplifyPath71.cpp)                    | Beats 100%    | Beats 98%   |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/EditDistance72.cpp) | Beats 69% | Beats 19% |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SetMatrixZeroes73.cpp) | Beats 100% | Beats 11% | 
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SortColors75.cpp) | Beats 100% | Beats 48% | 
 | 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/Subsets78.cpp) | Beats 29% | Beats 41% |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/WordSearch79.cpp) | Beats 78% | Beats 85% |
 | 80 | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/RemoveDuplicatesFromSortedArrayII80.cpp) | Beats 84% | Beats 8% |
