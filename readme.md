@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 144
+**Problems Solved:** 145
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -56,6 +56,7 @@
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SubsetsII90.cpp) | Beats 9% | Beats 9% |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/DecodeWays91.cpp) | Beats 19% | Beats 7% |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ReverseLinkedListII92.cpp) | Beats 100% | Beats 71% |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Easy | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/BinaryTreeInOrderTraversal94.cpp) | Beats 100% | Beats 34% |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/InterleavingString97.cpp) | Beats 100% | Beats 64% |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ValidateBinarySearchTree98.cpp) | Beats 100% | Beats 46% |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/description/)                                                                           | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SameTree100.cpp)                                          | Beats 100%   | Beats 48%  | 
