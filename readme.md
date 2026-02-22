@@ -48,6 +48,7 @@
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SetMatrixZeroes73.cpp) | Beats 100% | Beats 11% | 
 | 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/Subsets78.cpp) | Beats 29% | Beats 41% |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/WordSearch79.cpp) | Beats 78% | Beats 85% |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/RemoveDuplicatesFromSortedListII82.cpp) | Beats 100% | Beats 92% |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/PartitionList86.cpp) | Beats 100% | Beats 11% |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/GrayCode89.cpp) | Beats 100% | Beats 23% |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SubsetsII90.cpp) | Beats 9% | Beats 9% |
