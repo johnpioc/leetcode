@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 146
+**Problems Solved:** 152
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -68,6 +68,7 @@
 | 105 | [Construct Binary Tree From Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ConstructBinaryTreeFromPreorderAndInorderTraversal105.cpp) | Beats 100% | Beats 73% |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/BinaryTreeLevelOrderTraversalII107.cpp) | Beats 100% | Beats 8% |
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                                                     | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/BalancedBinaryTree110.cpp)                                | Beats 7%  | Beats 5%  |
+| 113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)                                                     | Medium       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/PathSumII113.cpp)                                | Beats 100%  | Beats 89%  |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                               | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/BestTimeToBuyAndSellStock121.cpp)                | Beats 18%  | Beats 5% |                                                
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                                             | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ValidPalindrome125.cpp)                            | Beats 32%  | Beats 80%  |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)                                     | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/LongestConsecutiveSequence128.cpp)           | Beats 5% | Beats 5% |
