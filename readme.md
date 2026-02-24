@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 152
+**Problems Solved:** 157
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -67,6 +67,7 @@
 | 104  | [Max Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                                         | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MaxDepthOfBinaryTree104.cpp)                              | Beats 100%   | Beats 46%  |
 | 105 | [Construct Binary Tree From Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ConstructBinaryTreeFromPreorderAndInorderTraversal105.cpp) | Beats 100% | Beats 73% |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/BinaryTreeLevelOrderTraversalII107.cpp) | Beats 100% | Beats 8% |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | Easy | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ConvertSortedArrrayToBinarySearchTree.cpp) | Beats 71% | Beats 96% |
 | 109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)                                                     | Medium       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ConvertSortedListToBinarySearchTree109.cpp)                                | Beats 100%  | Beats 99%  |
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                                                     | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/BalancedBinaryTree110.cpp)                                | Beats 7%  | Beats 5%  |
 | 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)                                                     | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/PathSum112.cpp)                                | Beats 54%  | Beats 90%  |
