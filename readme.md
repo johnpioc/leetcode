@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 145
+**Problems Solved:** 146
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -145,6 +145,7 @@
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/)| Easy | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MinimumTimeVisitingAllPoints1266.cpp) | Beats 100% | Beats 27% |
 | 1379 | [Find a Corresponding Node Of A Binary Tree In A Clone Of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/) | Easy | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree1379.cpp) | Beats 48% | Beats 84% |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                           | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CountGoodNodesInBinaryTree1448.cpp)                       | Beats 74% | Beats 62%  |
+| 1461 | [Check if a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CheckIfAStringContainsAllBinaryCodesOfSizeK1461.cpp) | Beats 79% | Beats 97% |
 | 1584 | [Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MinCostToConnectAllPoints1584.cpp) | Beats 85% | Beats 95% |
 | 1899 | [Merge Triplets To Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MergeTripletsToFormTargetTriplet1899.cpp) | Beats 63% | Beats 84% |
 | 2943 | [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MaximizeAreaOfSquareHoleInGrid2943.cpp) | Beats 100% | Beats 68% |
