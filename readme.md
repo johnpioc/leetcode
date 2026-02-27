@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 163
+**Problems Solved:** 169
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -113,6 +113,7 @@
 | 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                                   | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/KthSmallestElementInABST230.cpp)                          | Beats 100% | Beats 66%  |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/LowestCommonAncestorOfABinarySearchTree235.cpp) | Beats 88% | Beats 90% |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                     | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ProductOfArrayExceptSelf238.cpp)             | Beats 38%   | Beats 31%  |
+| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)                                     | Hard     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SlidingWindowMaximum239.cpp)             | Beats 47%   | Beats 67%  |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                   | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ValidAnagram242.cpp)                         | Beats 39% | Beats 26%  |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                 | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MissingNumber268.cpp)                          | Beats 23%  | Beats 38%  |   
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/FindTheDuplicateNumber287.cpp) | Beats 100% | Beats 69% |
