@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 182
+**Problems Solved:** 184
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -130,6 +130,7 @@
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)                                     | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/SearchA2DMatrix240.cpp)             | Beats 93%   | Beats 38%  |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                   | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ValidAnagram242.cpp)                         | Beats 39% | Beats 26%  |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                 | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MissingNumber268.cpp)                          | Beats 23%  | Beats 38%  |   
+| 274  | [H-Index](https://leetcode.com/problems/h-index/description/)                                                                 | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/HIndex274.cpp)                          | Beats 100%  | Beats 66%  |   
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/FindTheDuplicateNumber287.cpp) | Beats 100% | Beats 69% |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/FindMedianFromDataStream295.cpp) | Beats 71% | Beats 61% |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/LongestIncreasingSubsequence300.cpp) | Beats 27% | Beats 35% |
