@@ -1,5 +1,5 @@
 # Leetcode Solutions
-**Problems Solved:** 169
+**Problems Solved:** 182
 
 | #    | Problem                                                                                                                                     | Difficulty | Solution                                                                                                                                                    | Runtime   | Memory |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
@@ -116,6 +116,7 @@
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                                       | Easy       | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ReverseLinkedList206.cpp)                           | Beats 100%   | Beats 40%  |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/description/)                                                               | Medium     | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CourseSchedule207.cpp)                                   | Beats 22% | Beats 7%  | 
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/ImplementTrie208.cpp) | Beats 30% | Beats 91% |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/MinimumSizeSubarraySum209.cpp) | Beats 100% | Beats 41% |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/CourseScheduleII210.cpp) | Beats 72% | Beats 23% | 
 | 211 | [Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/DesignAddAndSearchWordsDataStructure211.cpp) | Beats 8% | Beats 31% |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | Medium | [C++23](https://github.com/johnpioc/leetcode/blob/main/src/HouseRobberII213.cpp) | Beats 100% | Beats 88% |
